@@ -6,4 +6,5 @@ The persistence of the corresponding interfaces is expressed by the fact that th
 To successfully complete the task, the implementation and the developed database accesses is tested with provided JUnit test cases.
 
 The Entity–relationship model can be seen below:
-![Alt Text](https://media.giphy.com/media/fKNX3T8snQXtwszn18/giphy.gif)
+
+![Alt Text](https://ibb.co/P94t6KB)
