@@ -1,1 +1,9 @@
 # Hospital-Management-System
+
+Implementation with JDBC of a hospital management system.
+In this task, I had to deal with the design of a service interface and determine interfaces for new persistent classes.
+The persistence of the corresponding interfaces is expressed by the fact that they derive from the interface PersistentObject
+To successfully complete the task, the implementation and the developed database accesses is tested with provided JUnit test cases.
+
+The Entity–relationship model can be seen below:
+![Alt Text](https://media.giphy.com/media/fKNX3T8snQXtwszn18/giphy.gif)
