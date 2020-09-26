@@ -7,4 +7,4 @@ To successfully complete the task, the implementation and the developed database
 
 The Entity–relationship model can be seen below:
 
-![Alt Text](https://ibb.co/P94t6KB)
+![image](https://ibb.co/P94t6KB)
